@@ -27,8 +27,8 @@ As principais bibliotecas utilizadas, listadas em [`requirements.txt`](requireme
 
 ## Aulas do Curso de Data Visualization: criando gráficos com bibliotecas Python
 
-[Aula 01-Conhecendo a biblioteca Matplotlib](Aula_1.ipynb)
-[Aula 02-Criando figuras com Matplotlib](Aula_2.ipynb)
-[Aula 03-Customizando com Matplotlib](Aula_3.ipynb)
-[Aula 04-Conhecendo a biblioteca Seaborn](Aula_4.ipynb)
-[Aula 05-Gráficos interativos com Plotly](Aula_5.ipynb)
+1. [Aula 01-Conhecendo a biblioteca Matplotlib](Aula_1.ipynb)
+2. [Aula 02-Criando figuras com Matplotlib](Aula_2.ipynb)
+3. [Aula 03-Customizando com Matplotlib](Aula_3.ipynb)
+4. [Aula 04-Conhecendo a biblioteca Seaborn](Aula_4.ipynb)
+5. [Aula 05-Gráficos interativos com Plotly](Aula_5.ipynb)
